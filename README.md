@@ -1,2 +1,2 @@
 # img
-图床
+利用github的api建立个人图床
